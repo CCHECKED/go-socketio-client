@@ -3,8 +3,8 @@ package socketio
 import (
 	"crypto/tls"
 	"encoding/json"
-	"github.com/CCHECKED/socketio-client/consts"
-	"github.com/CCHECKED/socketio-client/logger"
+	"github.com/CCHECKED/go-socketio-client/consts"
+	"github.com/CCHECKED/go-socketio-client/logger"
 	"net/http"
 	"net/url"
 	"time"

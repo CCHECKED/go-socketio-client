@@ -3,8 +3,8 @@ package main
 import (
 	"crypto/tls"
 	"fmt"
-	"github.com/CCHECKED/socketio-client"
-	"github.com/CCHECKED/socketio-client/consts"
+	"github.com/CCHECKED/go-socketio-client"
+	"github.com/CCHECKED/go-socketio-client/consts"
 	"net/http"
 	"net/url"
 	"os"

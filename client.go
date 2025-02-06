@@ -1,7 +1,7 @@
 package socketio
 
 import (
-	"github.com/CCHECKED/socketio-client/consts"
+	"github.com/CCHECKED/go-socketio-client/consts"
 )
 
 var loggerName = "SocketIoClient"

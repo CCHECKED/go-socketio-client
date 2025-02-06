@@ -1,17 +1,10 @@
 package socketio
 
-//TODO: менеджер должен
-//1. Заниматься подключением!
-//2. Заниматься переподключением
-//3. Следить за статусом подключения
-//
-//А НЕ ДВИЖОК
-
 import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/CCHECKED/socketio-client/consts"
+	"github.com/CCHECKED/go-socketio-client/consts"
 	"github.com/gorilla/websocket"
 	"io"
 	"net/http"
