@@ -1,4 +1,4 @@
-module github.com/CCHECKED/socketio-client
+module github.com/CCHECKED/go-socketio-client
 
 go 1.18
 
