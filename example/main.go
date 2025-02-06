@@ -13,6 +13,7 @@ import (
 )
 
 func main() {
+	// Создаем менеджера сессий
 	manager := socketio.NewSocketManager(
 		&url.URL{
 			Scheme: "https",
